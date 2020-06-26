@@ -1,3 +1,9 @@
+commit f999626bff586b49698b450d9969741fc311ca05
+Author: Raphaelli Bellini <rafael.bellini@hotmail.com>
+Date:   Thu Jun 25 22:16:31 2020 -0300
+
+    Atualizar curriculo (foto, logo e escolaridade)
+
 commit 4afbc5c5434314274288ee4b91954f5a7b06e606
 Author: Raphaelli Bellini <rafael.bellini@hotmail.com>
 Date:   Thu Jun 25 21:47:35 2020 -0300
